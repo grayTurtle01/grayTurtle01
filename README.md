@@ -1,5 +1,5 @@
 ### Hi there 👋
-### This the file README.me from  reponame: <userName>
+### This the file README.md from  reponame: userName
 
 <!--
 **grayTurtle01/grayTurtle01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
