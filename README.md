@@ -1,6 +1,6 @@
 ### Hi there 👋 😸
 ### This the file README.md from  reponame: userName
-- 🌱 grI'm currently learnign NodeJs 
+- 🌱 I'm currently learnign NodeJs 
 
 <!--
 **grayTurtle01/grayTurtle01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
