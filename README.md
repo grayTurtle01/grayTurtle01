@@ -1,5 +1,4 @@
 ### Hi there 👋 😸
-### This the file README.md from  reponame: userName
 - 🌱 I'm currently learnign NodeJs 
 
 <!--
